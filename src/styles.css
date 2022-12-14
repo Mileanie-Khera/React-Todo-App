@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: palevioletred;
+}
+
+.Add {
+  background-color: green;
+}
+.Delete_All {
+  background-color: red;
+}
+.Edit {
+  background-color: rebeccapurple;
+}
+.Delete {
+  background-color: salmon;
+}
+.Save {
+  background-color: lightskyblue;
+}
+.Cancel {
+  background-color: magenta;
+}
